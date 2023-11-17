@@ -13,16 +13,16 @@ Visit https://nodejs.org to learn the specifics on downloading, installing and r
 Visit https://reactjs.org/ to learn the specifics on downloading, intalling and running ReactJS.
 
 3). Clone the project to your local environment
-### `git clone https://github.com/beasiteri/chirper-app.git`
+### <h6>`git clone https://github.com/beasiteri/chirper-app.git`</h6>
 
 4). Go to the cloned project
-### `cd chirper-app`
+### <h6>`cd chirper-app`</h6>
 
 5). Install dependencies
-### `npm install`
+### <h6>`npm install`</h6>
 
 6). Run the app in development mode
-### `npm start`
+### <h6>`npm start`</h6>
 
 A new browser window should automatically open displaying the app.  If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 For reference, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
